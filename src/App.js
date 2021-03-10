@@ -11,7 +11,7 @@ import Education from './contents/Education';
 function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
-      <div className="App">git 
+      <div className="App">
         <Navbar />
         <Route exact path="/">
             <Home />
