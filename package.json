@@ -1,5 +1,4 @@
 {
-  "hompage": "https://manzmvp.github.io/Portfolio_React",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -12,11 +11,10 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-typing-effect": "^2.0.5",
+    "typescript": "^4.2.3",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -40,7 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  }
+  "devDependencies": {}
 }
