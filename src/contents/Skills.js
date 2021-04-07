@@ -4,7 +4,7 @@ class Skills extends Component{
     constructor(props){
         super(props);
         this.state = {
-            'Skills': ['Django', 'Html', 'Css', 'Python', 'Cpp', 'Figma', 'Data Structures', 'Postman', 'Git']
+            'Skills': ['Django', 'Html','Node.js','Javascript','Css', 'Python', 'Cpp', 'Figma', 'Data Structures', 'Postman', 'Git']
         };
     }
     render(){

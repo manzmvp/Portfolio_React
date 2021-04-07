@@ -10,8 +10,10 @@ class About extends Component {
             <h1>I'm Manoj Kumar</h1>
             <h3>Software Developer</h3>
             <br></br>
-            <p>My programming interest came in after joining my Computer Science Engineering. I have been
-            very involved in computer right from school days. 
+            <p>Focused and quick-learning Software Engineer with 2 years of experience in computer science, programming, and UI design for various projects.
+            Persistent, hardworking, team player with an interest to build innovative and cutting edge business solutions for the impressive suite of clients.
+             I intend to be a part of an organization where I can constantly learn and develop my technical and management skills and make the best use of it for the growth of the organization.
+              I look forward to establishing myself by adapting new technologies as well.
             </p>
             </div>
         );
